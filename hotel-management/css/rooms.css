@@ -1,0 +1,50 @@
+.well {
+            background: rgba(0, 0, 0, 0.7);
+            border: none;
+            height: 280px;
+            width: 50%
+        }
+        
+        body {
+            background-image: url('images/home_bg.jpg');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+        
+        h4 {
+            color: #ffbb2b;
+        }
+        h6
+        {
+            color: navajowhite;
+            font-family:  monospace;
+        }
+
+        .column{
+            float: left
+        }
+        
+        .column img{
+            height: 150px;
+            margin: 20px;
+            margin-left: 80px;
+        }
+        
+        marquee{
+            color: red
+        }
+        
+        textarea{
+            background: rgba(0, 0, 0, 0.5);
+            color: white;
+            font-size:12px;
+        }
+        .well2 {
+            background: rgba(0, 0, 0, 0.7);
+            border: none;
+            height: 200px;
+        }    
+        ul {
+            color: white;
+            font-size: 13px;
+        }
